@@ -1,0 +1,10 @@
+xcuserdata/
+.idea
+.DS_Store
+Maccy/.DS_Store
+
+# Local build outputs
+build/
+DerivedData/
+*.xcresult
+*.profraw
